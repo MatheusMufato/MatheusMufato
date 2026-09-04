@@ -24,13 +24,6 @@ Front-end developer formado em Engenharia da Computação, focado em **React** e
 **Ferramentas**
 `Git & GitHub` `Claude Code`
 
-## 📌 Projetos em destaque
-
-- **Portfólio pessoal** — migração de site estático (HTML/CSS/JS) para React + Vite, com Framer Motion e tema dark
-- **Sites institucionais para escritórios de advocacia** — React + Tailwind + Three.js, estética dark/gold
-- **Homepage para grupo hospitalar veterinário** — auditoria de UX/SEO + funis para dois públicos (tutores e parceiros)
-- **Pipeline de prospecção freelance** — automação com n8n integrando Google Places, PageSpeed Insights e WhatsApp (Evolution API)
-
 ## 📫 Contato
 
 - GitHub: [@MatheusMufato](https://github.com/MatheusMufato)
