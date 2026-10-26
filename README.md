@@ -67,6 +67,13 @@ Front-end developer formado em **Engenharia da Computação**, focado em **React
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMufato&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" />
 </div>
 
+### 📫 Contato
+
+<p>
+  <a href="https://www.linkedin.com/in/matheus-pestiglio-mufato-815b4a215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mmufato@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
 ---
 
 <div align="center">
