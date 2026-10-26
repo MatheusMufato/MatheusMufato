@@ -79,6 +79,11 @@ const now = {
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMufato&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=MatheusMufato&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/output/github-snake-dark.svg" />
+    <img width="100%" alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/output/github-snake.svg" />
+  </picture>
 </div>
 
 ### 📫 Contato
