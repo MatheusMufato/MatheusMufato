@@ -22,7 +22,7 @@ jobs:
 
       - name: Publica na branch output
         run: |
-          cd dist
+          mkdir out && cp dist/*.svg out/ && cd out
           git init -q -b output
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
