@@ -20,6 +20,18 @@ Front-end developer formado em **Engenharia da Computação**, focado em **React
 - 🎨 Design "premium" com performance real: animações, dark mode e responsividade fina
 - 🔧 Automação de processos: bots, integrações via API e workflows
 
+### 🔭 Atualmente
+
+```ts
+const now = {
+  building: "CRM Imobiliário — SaaS multi-tenant para imobiliárias",
+  stack: ["React", "TypeScript", "Supabase", "Postgres RLS", "Edge Functions"],
+  features: ["Captação de leads (Meta Ads + site)", "Pipeline Kanban", "Inbox de WhatsApp oficial"],
+  learning: ["Arquitetura SaaS", "Testes de banco com pgTAP", "Playwright"],
+  openTo: "freelas e parcerias",
+};
+```
+
 ### 🛠️ Stack
 
 <p>
@@ -65,6 +77,10 @@ Front-end developer formado em **Engenharia da Computação**, focado em **React
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=MatheusMufato&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMufato&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=MatheusMufato&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <br/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusMufato&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ### 📫 Contato
