@@ -81,8 +81,8 @@ const now = {
   <img src="https://streak-stats.demolab.com?user=MatheusMufato&theme=tokyonight&hide_border=true&locale=pt_BR" />
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/output/github-snake-dark.svg" />
-    <img width="100%" alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/refs/heads/output/github-snake-dark.svg" />
+    <img width="100%" alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/MatheusMufato/MatheusMufato/refs/heads/output/github-snake.svg" />
   </picture>
 </div>
 
